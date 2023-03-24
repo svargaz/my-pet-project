@@ -1,0 +1,47 @@
+/* 695958 */
+/* B6C8A9 */
+/* C8EAD3 */
+/* CFFFE5 */
+/* CEDADA */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #CFFFE5;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    height: 2.5rem;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.2);
+
+
+}
+
+img{
+    margin: 2rem 0rem 0rem 2rem;
+    width: 40rem;
+    height: 40rem;
+    border-radius: 100%;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.2);
+}
+
+img:hover{
+    margin: 2rem 0rem 0rem 2rem;
+    width: 43rem;
+    height: 43rem;
+    border-radius: 100%;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.2);
+}
+
+#logo{
+    color: white;
+    /* margin: 5rem 4rem 4rem 4rem; */
+    padding: 0.5rem 1.5rem 0rem 1.5rem;
+}
+.image-container {
+    text-align: center;
+
+}
